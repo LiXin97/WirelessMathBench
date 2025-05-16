@@ -1,0 +1,4 @@
+This is a placeholder for the wordcloud.png image.
+You should replace this file with an actual word cloud visualization that illustrates the most frequent keywords in the WirelessMathBench benchmark, reflecting the range of wireless communication topics covered.
+
+The word cloud should feature prominently terms like RIS, MIMO, UAV, ISAC, Beamforming, Channel Estimation, etc., with sizes corresponding to their frequency in the dataset. 

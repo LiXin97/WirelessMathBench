@@ -1,0 +1,4 @@
+This is a placeholder for the teaser.png image. 
+You should replace this file with an actual image showing an example task from WirelessMathBench, similar to Figure 1 in the paper.
+
+The image should demonstrate the progression from a multiple-choice question to progressive mask completion questions, and finally to the full formula derivation, testing the model's ability to reason through complex channel reflections and matrix operations. 
